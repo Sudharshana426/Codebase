@@ -1,0 +1,1 @@
+Codebase Chat Assistant using RAG, Pinecone embeddings, and integration with GitHub repositories. The app leverages retrieval-augmented generation (RAG) to query codebases and generate context-aware responses to help developers analyze and understand code efficiently.
